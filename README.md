@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Financial Analysis using Python
 - 👯 I’m looking to collaborate on some cool startup ideas in FinTech
 - 🤔 I’m looking for help with contributing to tech blogs and conferences
-- 💬 Ask me about Android Development, Chess and Finance
+- 💬 Ask me about Android Development, Finance and Chess
 - ⚡ Fun fact: I play at least one game of chess ♟️ every time I go to the toilet 🚽
 
 ## 📫 How to reach me
