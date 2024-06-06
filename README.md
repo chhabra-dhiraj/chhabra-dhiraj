@@ -10,5 +10,5 @@
 ## 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-DhirajChhabra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chhabra-dhiraj/)](https://www.linkedin.com/in/chhabra-dhiraj/)
-[![Twitter Badge](http://img.shields.io/badge/-@dhiraj_c_97-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dhiraj_c_97)](https://twitter.com/dhiraj_c_97)
+[![Twitter Badge](http://img.shields.io/badge/-@dhiraj_c_97-1ca0f1?style=social&logo=X&logoColor=black&link=https://x.com/dhiraj_c_97)](https://x.com/dhiraj_c_97)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dhiraj.chhabra.g@gmail.com)](mailto:dhiraj.chhabra.g@gmail.com)
